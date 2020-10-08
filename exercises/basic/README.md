@@ -28,10 +28,6 @@ desribes the interfaces of the P4 programmable elements in the architecture,
 the supported externs, as well as the architecture's standard metadata
 fields. We encourage you to take a look at it.
 
-> **Spoiler alert:** There is a reference solution in the `solution`
-> sub-directory. Feel free to compare your implementation to the
-> reference.
-
 ## Step 1: Run the (incomplete) starter code
 
 The directory with this README also contains a skeleton P4 program,
