@@ -12,9 +12,6 @@ The new header type will contain a protocol ID, which indicates the type of
 packet being encapsulated, along with a destination ID to be used for routing.
 
 
-> **Spoiler alert:** There is a reference solution in the `solution`
-> sub-directory. Feel free to compare your implementation to the reference.
-
 The starter code for this assignment is in a file called `basic_tunnel.p4` and
 is simply the solution to the IP router from the previous exercise.
 
