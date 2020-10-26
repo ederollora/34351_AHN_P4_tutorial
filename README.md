@@ -4,7 +4,7 @@ This tutorial is based on the original created by the P4 community.
 We thank the developers that have contributed to create this fantastic
 tutorial. We will include soon some new exercises too.
 
-**We will soon add more exercises**
+**More exercises soon**
 
 ## Introduction
 
@@ -14,8 +14,7 @@ you get started with P4 programming, organized into several modules:
 1. Introduction and Language Basics
 * [Basic Forwarding](./exercises/basic)
 * [Basic Tunneling](./exercises/basic_tunnel)
-
-
+* [Calculator](./exercises/calculator)
 
 ## Presentation
 
@@ -36,10 +35,6 @@ the VM image.
 
 Otherwise, to complete the exercises, you will need to either build a
 virtual machine or install several dependencies.
-
-
-
-
 
 To build the virtual machine:
 - Install [Vagrant](https://vagrantup.com) and [VirtualBox](https://virtualbox.org)
