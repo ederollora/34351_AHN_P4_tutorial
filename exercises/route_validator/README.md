@@ -34,11 +34,11 @@ architecture implemented on P4.org's bmv2 software switch.
 
 ## Step 1: Run the (incomplete) starter code
 
-The directory with this README also contains a skeleton P4 program,
-`basic.p4`, which initially drops all packets. Your job will be to
-extend this skeleton program to properly forward IPv4 packets.
+The directory with this README also contains a `route_validator` program based on
+`basic.p4`. Your job will be to extend this skeleton program to properly
+addd telemetry headers and forward IPv4 packets.
 
-Before that, let's compile the incomplete `basic.p4` and bring
+Before that, let's compile the incomplete `route_validator.p4` and bring
 up a switch in Mininet to test its behavior.
 
 1. In your shell, run:

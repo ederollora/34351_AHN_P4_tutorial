@@ -148,8 +148,9 @@ control MyIngress(inout headers hdr,
     }
 
     apply {
-        /*TODO: Check if IPv4 is valid*/
-            /*TODO: apply the table you see declared above when IPv4 is valid*/
+        if (hdr.ipv4.isValid()) {
+            ipv4_lpm.apply();
+        }
     }
 
 }
