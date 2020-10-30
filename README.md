@@ -15,7 +15,7 @@ you get started with P4 programming, organized into several modules:
 * [Basic Forwarding](./exercises/basic)
 * [Basic Tunneling](./exercises/basic_tunnel)
 * [Calculator](./exercises/calculator)
-* [Route vVlidator](./exercises/route_validator)
+* [Route Validator](./exercises/route_validator)
 
 ## Presentation
 
