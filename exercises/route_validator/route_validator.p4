@@ -40,6 +40,9 @@ header ipv4_t {
 add necessary fields. Remember that UDP header is 8 bytes in total.
 It needs to have 4 fields.
 Hint: https://en.wikipedia.org/wiki/User_Datagram_Protocol*/
+/*TODO - IMPORTANT: To prevent having issues with the rules, you should
+choose "dstPort" and "srcPort" for UDP fields. The rest of the fields don't
+that much matter*/
 
 
 
