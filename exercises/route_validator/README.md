@@ -123,7 +123,7 @@ TODO tasks:
 1. **TODO:** Add the UDP header structure with its fields.
 2. **TODO:** Add the telemetry header, see the P4 file to follow instructions.
 3. **TODO:** Declare the UDP header and two telemetry headers you just created.
-4. At the Ingress, we have left the `basic.p4` code to route IP packets. You
+4. At the Ingress, we have left the `route_validator.p4` code to route IP packets. You
 don't have to modify this code.
 5. **TODO:** At the Egress, we have created a table for which you have to
 create the keys, and also fill up the `record_ports` action. All instructions
