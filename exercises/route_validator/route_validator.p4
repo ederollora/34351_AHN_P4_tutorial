@@ -4,7 +4,8 @@
 
 const bit<16> TYPE_IPV4 = 0x800;
 
-/*const bit<8> PROTO_UDP = /*TODO: Find the correct number in IPv4's protocol for UDP*/;*/
+/*TODO: Find the correct number in IPv4's protocol for UDP*/
+/*const bit<8> PROTO_UDP = FIND_VALUE;
 
 /*************************************************************************
 *********************** H E A D E R S  ***********************************
